@@ -3,7 +3,7 @@ import random
 def jugar_juego():
     numero_secreto = random.randint(1, 100)
     intentos = 0
-
+#hace un print normal
     print("¡Bienvenido al juego de adivinanza de números!")
     print("Estoy pensando en un número entre 1 y 100.")
 
